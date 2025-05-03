@@ -8,7 +8,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=flat&logo=roblox&logoColor=white)
-<h2> Blake Huhn </h2>h2
+<h2 align="center"> Blake Huhn </h2>
 
 <p align="center">
   Software Engineering Intern @ AMERGINT Technologies • CS Student @ CU Boulder
