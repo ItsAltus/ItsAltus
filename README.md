@@ -8,7 +8,7 @@
 <!-- Name & Title -->
 <h2 align="center">Blake Huhn</h2>
 <p align="center">
-  CS Student @ CU Boulder • Software Engineering Intern @ AMERGINT Technologies
+  CS Student @ CU Boulder • Software Engineering Intern @ AMERGINT Technologies • Developer @ Paragon Research Institute
 </p>
 <hr />
 
