@@ -8,7 +8,10 @@
 <!-- Name & Title -->
 <h2 align="center">Blake Huhn</h2>
 <p align="center">
-  CS Student @ CU Boulder • Software Engineering Intern @ AMERGINT Technologies • Developer @ Paragon Research (ROBLOX)
+  • CS Student @ CU Boulder<br>
+  • Developer @ Paragon Research (ROBLOX)<br>
+  • Software Engineering Intern @:<br>
+  &nbsp;&nbsp;&nbsp;• AMERGINT Technologies (Summer 2025)
 </p>
 <hr />
 
