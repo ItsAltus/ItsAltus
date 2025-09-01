@@ -10,7 +10,7 @@
 <p align="center">
   • CS Student @ CU Boulder<br>
   • Developer @ Paragon Research (ROBLOX)<br>
-  • Software Engineering Intern @:<br>
+  Software Engineering Internships:<br>
   &nbsp;&nbsp;&nbsp;• AMERGINT Technologies (Summer 2025)
 </p>
 <hr />
