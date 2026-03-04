@@ -8,9 +8,9 @@
 <!-- Name & Title -->
 <h2 align="center">Blake Huhn</h2>
 <p align="center">
-  • CS Student @ CU Boulder<br>
+  • CS Student @ CU Boulder
   • Software Engineering Intern @ AMERGINT Technologies - (Summer 2025)
-  &nbsp;&nbsp;&nbsp;• Software Engineer @ Kerr & Tango [Paragon Research Institute] - (2025-2026)<br>
+  &nbsp;&nbsp;&nbsp;• Software Engineer @ Kerr & Tango [Paragon Research Institute] - (2025-2026)
 </p>
 <hr />
 
