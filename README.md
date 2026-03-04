@@ -9,9 +9,8 @@
 <h2 align="center">Blake Huhn</h2>
 <p align="center">
   • CS Student @ CU Boulder<br>
-  • Developer @ Paragon Research (ROBLOX)<br>
-  Software Engineering Internships:<br>
-  &nbsp;&nbsp;&nbsp;• AMERGINT Technologies (Summer 2025)
+  • Software Engineer @ Kerr & Tango [Paragon Research Institute] - (2025-2026)<br>
+  &nbsp;&nbsp;&nbsp;• Software Engineering Intern @ AMERGINT Technologies - (Summer 2025)
 </p>
 <hr />
 
