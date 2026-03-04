@@ -49,16 +49,3 @@
 </p>
 
 <hr>
-
-<!-- GitHub Stats -->
-<h2 align="center">GitHub Activity</h2>
-
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=ItsAltus&theme=tokyonight&show_icons=true&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAltus&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<hr>
