@@ -10,7 +10,7 @@
 <p align="center">
   • CS Student @ CU Boulder<br>
   • Software Engineering Intern @ AMERGINT Technologies - (Summer 2025)
-  • Software Engineer @ Kerr & Tango [Paragon Research Institute] - (2025-2026)<br>
+  &nbsp;&nbsp;&nbsp;• Software Engineer @ Kerr & Tango [Paragon Research Institute] - (2025-2026)<br>
 </p>
 <hr />
 
