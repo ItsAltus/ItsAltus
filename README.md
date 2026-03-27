@@ -12,7 +12,7 @@
 <p align="center">
   <b>Computer Science Student @ CU Boulder</b> <br>
   Software Engineering Intern @ SMX (Summer 2026) <br>
-  Software Engineering Intern @ AMERGINT Technologies (Summer 2025) <br>
+  Software Engineering Intern @ ARKA (Summer 2025) <br>
   Software Engineer @ Kerr & Tango — Paragon Research Institute (2025–Feb 2026)
 </p>
 
